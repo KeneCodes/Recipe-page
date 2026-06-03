@@ -168,8 +168,9 @@ h3 {
   /* padding: 0 1rem; */
 }
 
-li strong {
-  color: var(--strong-color);
+li span {
+  color: var(--text-color);
+  font-weight: 600;
 }
 
 hr {
